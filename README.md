@@ -1,8 +1,18 @@
-# React + Vite
+# KingdomDatabase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KingdomDatabase is a project for my Frontend Web Development 2 course. This application serves as a database displaying all the countries of the world.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Dropdown that lists all kingdoms of the world and once clicked displays said kingdom
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Contact
+
+- For business inquiries contact me at schatzdesigns7@gmail.com
