@@ -1,0 +1,42 @@
+.detailsContainer {
+  text-align: center;
+  color: #e0e0e0;
+  padding: 20px;
+  min-height: 300px; /* Adjust this value as needed */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.countryName {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.flag {
+  width: 90%;
+  height: auto;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
+
+.detail {
+  margin: 5px 0;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.placeholder {
+  color: #e0e0e0;
+}
+
+.loading {
+  color: #e0e0e0;
+}
