@@ -58,7 +58,6 @@ header h1 {
 
 .content > div {
   flex: 1;
-  margin: 0 10px;
 }
 
 .content > div:first-child {

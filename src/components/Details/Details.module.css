@@ -12,6 +12,7 @@
 .countryName {
   font-size: 1.5rem;
   margin-bottom: 10px;
+  margin-top: 0;
   font-weight: bold;
 }
 
