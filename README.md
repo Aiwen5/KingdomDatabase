@@ -1,6 +1,6 @@
 # KingdomDatabase
 
-KingdomDatabase is a project for my Frontend Web Development 2 course. This application serves as a database displaying all the countries of the world.
+KingdomDatabase is a project for my Frontend Web Development 2 course. This application serves as a database displaying all the kingdoms of the world.
 
 ## Features
 
