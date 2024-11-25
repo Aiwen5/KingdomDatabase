@@ -2,7 +2,7 @@
   text-align: center;
   color: #e0e0e0;
   padding: 20px;
-  min-height: 300px; /* Adjust this value as needed */
+  min-height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
